@@ -1,0 +1,23 @@
+moduledependenciestarget: \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.0.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.0.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.0.sdk/usr/include/DarwinFoundation.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.0.sdk/System/Library/Frameworks/UserNotifications.framework/Modules/module.modulemap \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.0.sdk/System/Library/Frameworks/CoreMedia.framework/Modules/module.modulemap \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/mazenalali/Development/fl_app_test/test_drive/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
